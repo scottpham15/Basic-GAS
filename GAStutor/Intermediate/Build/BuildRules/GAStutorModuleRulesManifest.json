@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\PearBecomeHuman\\Documents\\Unreal Projects\\GAStutor\\Source\\GAStutor\\GAStutor.Build.cs",
+		"C:\\Users\\PearBecomeHuman\\Documents\\Unreal Projects\\GAStutor\\Source\\GAStutor.Target.cs",
+		"C:\\Users\\PearBecomeHuman\\Documents\\Unreal Projects\\GAStutor\\Source\\GAStutorEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

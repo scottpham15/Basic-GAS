@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/ThirdPerson/Blueprints/NewDataTable.uasset",
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/ThirdPerson/Blueprints/BP_GameMode.uasset",
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/ThirdPerson/Blueprints/GA_Test.uasset",
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/ThirdPerson/Blueprints/GE_ReduceHealth.uasset",
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/ThirdPerson/Blueprints/GE_Cooldown.uasset",
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/ThirdPerson/Blueprints/GA_Test1.uasset",
+				"C:/Users/PearBecomeHuman/Documents/Unreal Projects/GAStutor/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4V/F2UUAAZXE1I3Z2K4NELXMV.uasset"
+			]
+		}
+	]
+}

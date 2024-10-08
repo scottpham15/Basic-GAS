@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pearbecomehuman\\documents\\unreal projects\\gastutor\\intermediate\\build\\win64\\unrealeditor\\inc\\gastutor\\uht\\gastutorcontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pearbecomehuman\\documents\\unreal projects\\gastutor\\intermediate\\build\\win64\\x64\\gastutoreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\gastutor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gastutor\\definitions.gastutor.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\gastutor\\source\\gastutor\\public\\gastutorcontroller.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\gastutor\\intermediate\\build\\win64\\unrealeditor\\inc\\gastutor\\uht\\gastutorcontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

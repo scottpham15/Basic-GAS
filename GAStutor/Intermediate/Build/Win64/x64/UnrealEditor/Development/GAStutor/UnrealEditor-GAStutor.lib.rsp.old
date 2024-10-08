@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GAStutor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\GAStutorEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\BasicAttributeSet.gen.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\GAStutor.init.gen.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\GAStutorCharacter.gen.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\GAStutorGameMode.gen.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\BasicAttributeSet.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\GAStutor.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\GAStutorCharacter.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\GAStutorGameMode.cpp.obj"
+"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\Default.rc2.res"
+/OUT:"C:\Users\PearBecomeHuman\Documents\Unreal Projects\GAStutor\Intermediate\Build\Win64\x64\UnrealEditor\Development\GAStutor\UnrealEditor-GAStutor.lib"
